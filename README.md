@@ -1,5 +1,5 @@
 
-[](assets/video.mp4)
+[](assets/func.gif)
 
 ![](assets/images/1.jpg)
 ![](assets/images/2.jpg)
