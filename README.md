@@ -1,6 +1,6 @@
 
-![](assets/video.mp4)
-(https://konkukackr-my.sharepoint.com/personal/hisu026_konkuk_ac_kr/Documents/%EC%9C%B5%ED%95%A9%EB%8C%80%ED%95%99%EC%9B%90 %EB%8F%99%EA%B3%84%EC%9D%B8%ED%84%B4%EC%8B%AD_%EA%B6%8C%ED%9D%AC%EC%88%98_%EB%A9%94%ED%83%80%ED%8C%8C%EC%9D%BC.pptx?web=1)
+[](assets/video.mp4)
+
 ![](assets/images/1.jpg)
 ![](assets/images/2.jpg)
 ![](assets/images/3.jpg)
